@@ -1,0 +1,11 @@
+{
+  "title": "ЛітМетр",
+  "description": "Відеопроект для літераторів",
+  "main": "app.js",
+  "dependencies": {
+    "promise": "^6.1.0",
+    "whatwg-fetch": "^0.7.0",
+    "lodash": "^4.0.0",
+    "tabris": "^1.7.0"
+  }
+}
